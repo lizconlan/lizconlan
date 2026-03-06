@@ -1,10 +1,10 @@
 Hi, I'm Liz 👋
 
-I'm a software engineer - mostly working on backend code, trying to make the world a better place through the medium of software
+Software engineer with a particular fondness for backend systems, data pipelines, and figuring out why things broke.
 
 ## About me
 
-I've had the privilege of working across many industries from manufacturing to B2B sales via data providers and national legislature; with all of the fun, ever evolving datastores and modelling techniques I got to play with along the way. Equally happy cutting edge newness and getting legacy code into good shape so it can carry on for as long as it's still needed.
+I've worked across a surprisingly wide range of industries - manufacturing, B2B sales, data providers, national legislature - picking up an equally wide range of datastores, modelling techniques and architectural patterns along the way. I'm as happy reasoning about a legacy system that needs careful handling as I am building something new from scratch.
 
 ## Technical skills
 
