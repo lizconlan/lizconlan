@@ -13,3 +13,8 @@ I've worked across a surprisingly wide range of industries - manufacturing, B2B 
 * **Cloud & DevOps**: AWS, Google Cloud, Docker
 * **Payments & APIs**: Stripe
 * **Tools & Practices**: Git, GitHub, CI/CD, Agile, Async & Remote Collaboration, Pair Programming
+
+## Learning
+
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/9b634d880abba57d1d2854aa8cee0a1bcb6c35b1?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img width="242" height="147" alt="AI Fundamentals Badge" src="https://github.com/user-attachments/assets/d815f07a-c8f4-4f32-92f4-da97a6f38f4b" /></a>
+
