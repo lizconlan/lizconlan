@@ -15,6 +15,5 @@ I've worked across a surprisingly wide range of industries - manufacturing, B2B 
 * **Tools & Practices**: Git, GitHub, CI/CD, Agile, Async & Remote Collaboration, Pair Programming
 
 ## Learning
-
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/9b634d880abba57d1d2854aa8cee0a1bcb6c35b1?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img width="242" height="147" alt="AI Fundamentals Badge" src="https://github.com/user-attachments/assets/d815f07a-c8f4-4f32-92f4-da97a6f38f4b" /></a>
+<a href="https://www.datacamp.com/skill-verification/AIF0025679460678"><img height="175" alt="AI-Fundamentals-Cert" src="https://github.com/user-attachments/assets/70cd9346-0daa-4c37-a7bb-935b6bd41525"></a>
 
